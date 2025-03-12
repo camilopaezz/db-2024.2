@@ -2,4 +2,4 @@
 
 ## Diagram
 
-![Diagrama Base de datos1](db.png)
+![Diagrama Base de datos1](./bd-schema/db.png)
